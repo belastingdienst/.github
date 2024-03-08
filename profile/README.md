@@ -6,7 +6,7 @@ Deze pagina is werk onder handen en zal worden aangevuld.
 
 ## Deelnemen aan onze projecten
 
-Lees onze [Code of Conduct](CODE_OF_CONDUCT.md), de Contributing en de [Security](SECURITY.md) documenten door.
+Lees onze [Code of Conduct](../CODE_OF_CONDUCT.MD), de Contributing en de [Security](../SECURITY.MD) documenten door.
 
 ## Meer informatie
 
@@ -20,7 +20,7 @@ This page is a work in progress and will be updated.
 
 ## Engaging in our projects
 
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md), Contributing and [Security](SECURITY.md) documents.
+Please read our [Code of Conduct](../CODE_OF_CONDUCT.MD), Contributing and [Security](../SECURITY.MD) documents.
 
 ## More Information
 
